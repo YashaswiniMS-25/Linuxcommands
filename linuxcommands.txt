@@ -1,0 +1,109 @@
+  334  mkdir terminalcommand
+  335  java -version
+  336  pwd
+  337  cd/
+  338  cd /
+  339  ls -l
+  340  ls .
+  341  cd wolken
+  342  cd wolken/
+  343  cd /wolken
+  344  cd /desktop/wolken
+  345  pwd
+  346  ls ~
+  347  ls wolken/
+  348  cd/Desktop/Wolken
+  349  cd /Desktop/Wolken
+  350  cd Desktop/Wolken
+  351  cd ~
+  352  cd C
+  353  cd c
+  354  cd c/
+  355  cd -
+  356  cd-
+  357  cd -
+  358  ls .
+  359  ls ..
+  360  ls wolken/
+  361  ls Wolken/
+  362  ls Assessment/
+  363  ls -a ~
+  364  ls -a /
+  365  ls -a ~/
+  366  cd Desktop/Wolken 
+  367  cd C
+  368  cd c
+  369  cd C
+  370  cd C
+  371  cd c/:
+  372  nano yashu.txt
+  373  nano theju.txt
+  374  cp 'yashu.txt' 'theju.txt'
+  375  cat theju.txt
+  376  cat yashu
+  377  cat yashu.txt
+  378  cat theju.txt
+  379  nano yy.txt
+  380  cat yy.txt
+  381  cp 'yashu.txt' 'yy.txt'
+  382  cat yy.txt
+  383  mv 'yashu.txt' 'yy.txt'
+  384  cat yy.txt
+  385  cat yy.txt
+  386  cat yashu.txt
+  387  nano first.txt
+  388  nano second.txt
+  389  cp first.txt second.txt
+  390  cat second.txt
+  391  cat first.txt
+  392  mv fist.txt second.txt
+  393  mv first.txt second.txt
+  394  second.txt
+  395  cat second.txt
+  396  cat first.txt
+  397  touch yashu.pdf
+  398  where cp
+  399  where cat
+  400  head second.txt
+  401  find. -name *. txt
+  402  find  -name *. txt
+  403  find  -name *.txt
+  404  git clone  https://github.com/edurekavivekh/linux-content.git
+  405  cd linux-content
+  406  find -name*.pdf
+  407  find -name *.pdf
+  408  cd find -size +5M
+  409   find -size +5M
+  410  find -name *.pdf -size +5M
+  411  cd data.csv
+  412  touch data data.txt abc.txt abc.pdf
+  413  find -name 'data*'
+  414  grep CAPTAIN data.csv
+  415  grep -i gary data.csv
+  416  grep -r gary data.csv
+  417  grep -r gm data.csv
+  418  grep -r -i gm data.csv
+  419  grep -v -i gm data.csv
+  420  env | grep -i java
+  421  env | grep -i user
+  422  echo $username
+  423  echo -i $USERNAME
+  424  echo yashu
+  425  echo -i $username
+  426  echo  $username -i
+  427  env
+  428  ls ~
+  429  ls /
+  430  pwd
+  431  history pwd
+  432  history all
+  433  history
+  434  history 433-334
+  435  history 99
+  436  history 95
+  437  history 90
+  438  history 100
+  439  history 105
+  440  history 107
+  441  history 107 >linuxcommand.txt
+  442  history 109 >linuxcommands.txt
